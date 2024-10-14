@@ -1,6 +1,6 @@
-module github.com/sixlive/telegrammer
+module github.com/ericvanjohnson/telegrammer
 
-go 1.21.4
+go 1.23
 
 require (
 	github.com/charmbracelet/lipgloss v0.9.1
